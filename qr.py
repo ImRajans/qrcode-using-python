@@ -1,3 +1,3 @@
 import qrcode
-img=qrcode.make('https://www.youtube.com')
+img=qrcode.make('content')
 img.show()
